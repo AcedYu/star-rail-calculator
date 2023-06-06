@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Yukong",
+    "path": "Harmony",
+    "value": 100,
+    "image": "https://honkailab.com/wp-content/uploads/2023/05/honkailab_yukong__build.png"
+  },
+  {
+    "name": "Tingyun",
+    "path": "Harmony",
+    "value": 100,
+    "image": "https://honkailab.com/wp-content/uploads/2023/02/Tingyun_Honkai_star_rail_honkailab.png"
+  },
+  {
+    "name": "Quingque",
+    "path": "Erudition",
+    "value": 75,
+    "image": "https://honkailab.com/wp-content/uploads/2023/02/Qingque_Honkai_star_rail_honkailab.png"
+  },
+  {
+    "name": "Luocha",
+    "path": "Abundance",
+    "value": 100,
+    "image": "https://honkailab.com/wp-content/uploads/2022/06/Luocha_Honkai_star_rail_Honkailab_s.png"
+  },
+  {
+    "name": "Trailblazer (Fire)",
+    "path": "Preservation",
+    "value": 150,
+    "image": "https://honkailab.com/wp-content/uploads/2023/02/starrailmaincharacter__s-1.png"
+  },
+  {
+    "name": "Trailblazer (Physical)",
+    "path": "Destruction",
+    "value": 125,
+    "image": "https://honkailab.com/wp-content/uploads/2023/02/starrailmaincharacter__s-1.png"
+  },
+  {
+    "name": "Yanqing",
+    "path": "Hunt",
+    "value": 75,
+    "image": "https://honkailab.com/wp-content/uploads/2023/02/Yanqing_Honkai_star_rail_honkailab.png"
+  },
+  {
+    "name": "Bailu",
+    "path": "Abundance",
+    "value": 100,
+    "image": "https://honkailab.com/wp-content/uploads/2023/02/Bailu_Honkai_star_rail_honkailab.png"
+  },
+  {
+    "name": "Bailu",
+    "path": "Abundance",
+    "value": 100,
+    "image": "https://honkailab.com/wp-content/uploads/2023/02/Bailu_Honkai_star_rail_honkailab.png"
+  },
+  {
+    "name": "Blade",
+    "path": "Destruction",
+    "value": 125,
+    "image": "https://honkailab.com/wp-content/uploads/2022/06/Blade_honkai_star_rail_honkailab_s.png"
+  }
+]
