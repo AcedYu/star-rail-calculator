@@ -1,2 +1,2 @@
-# star-rail-calculator
+# redux-disadvantage-examples
 Created with CodeSandbox
