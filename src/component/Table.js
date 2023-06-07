@@ -26,10 +26,22 @@ const Calculator = () => {
           <td>CHARACTER_NAME_PLACEHOLDER</td>
         </tr>
         <tr>
+          <td>CHARACTER_PATH_PLACEHOLDER</td>
+          <td>CHARACTER_PATH_PLACEHOLDER</td>
+          <td>CHARACTER_PATH_PLACEHOLDER</td>
+          <td>CHARACTER_PATH_PLACEHOLDER</td>
+        </tr>
+        <tr>
           <td>AGGRO_VALUE_PLACEHOLDER</td>
           <td>AGGRO_VALUE_PLACEHOLDER</td>
           <td>AGGRO_VALUE_PLACEHOLDER</td>
           <td>AGGRO_VALUE_PLACEHOLDER</td>
+        </tr>
+        <tr>
+          <td>AGGRO_PERCENT_PLACEHOLDER</td>
+          <td>AGGRO_PERCENT_PLACEHOLDER</td>
+          <td>AGGRO_PERCENT_PLACEHOLDER</td>
+          <td>AGGRO_PERCENT_PLACEHOLDER</td>
         </tr>
       </tbody>
     </Table>

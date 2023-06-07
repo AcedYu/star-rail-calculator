@@ -1,2 +1,1 @@
-# redux-disadvantage-examples
-Created with CodeSandbox
+# Honkai: Star Rail Aggro Calculator
